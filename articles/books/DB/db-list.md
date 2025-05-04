@@ -12,3 +12,9 @@
 - SQLのアンチパターンを学ぶ書籍。
 
 [URLはこちら](https://www.amazon.co.jp/SQL%E3%82%A2%E3%83%B3%E3%83%81%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-Bill-Karwin/dp/4873115892/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1RZHQ1UB6QW5N&dib=eyJ2IjoiMSJ9.9IeywlQxYs5J_6RdRy7fJethTVSHe6AhrOhqaB24xrkEYyNfRpMGKsbAsITDzpU7xNXOWcPduyUNdBqFU4Nl21fVswmT9Ps9L4hgyEdL-e9V6uSpEFxwXot5819zIc8T64p5vXpo11DFmoIskKiO1gis3StEa_ebOSdmFh2AhCSVJebi-nfPEo6esrJuQSJkSQvDDQWC293CKPGJc-Xp0M2il3H2cj-sheJV7P_5p8E.5NlUkMvOO-npdgYenxfF1AD6DqMI-UZa25o_zaQoMG8&dib_tag=se&keywords=SQL%E3%82%A2%E3%83%B3%E3%83%81%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3&qid=1745763245&s=books&sprefix=sql%E3%82%A2%E3%83%B3%E3%83%81%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%2Cstripbooks%2C194&sr=1-2)
+
+## MySQL運用・管理［実践］入門 〜安全かつ高速にデータを扱う内部構造・動作原理を学ぶ
+
+- MySQLの設計、構築に使用する書籍。
+
+[URLはこちら](https://www.amazon.co.jp/SQL%E3%82%A2%E3%83%B3%E3%83%81%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-Bill-Karwin/dp/4873115892/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1RZHQ1UB6QW5N&dib=eyJ2IjoiMSJ9.9IeywlQxYs5J_6RdRy7fJethTVSHe6AhrOhqaB24xrkEYyNfRpMGKsbAsITDzpU7xNXOWcPduyUNdBqFU4Nl21fVswmT9Ps9L4hgyEdL-e9V6uSpEFxwXot5819zIc8T64p5vXpo11DFmoIskKiO1gis3StEa_ebOSdmFh2AhCSVJebi-nfPEo6esrJuQSJkSQvDDQWC293CKPGJc-Xp0M2il3H2cj-sheJV7P_5p8E.5NlUkMvOO-npdgYenxfF1AD6DqMI-UZa25o_zaQoMG8&dib_tag=se&keywords=SQL%E3%82%A2%E3%83%B3%E3%83%81%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3&qid=1745763245&s=books&sprefix=sql%E3%82%A2%E3%83%B3%E3%83%81%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%2Cstripbooks%2C194&sr=1-2)

@@ -51,3 +51,7 @@
 ## SRE
 
 [SREはこちら](./books/SRE/sre-list.md)
+
+## Web
+
+[Webはこちら](./books/Web/web-list.md)
