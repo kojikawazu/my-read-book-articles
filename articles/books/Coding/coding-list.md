@@ -6,6 +6,10 @@
 
 [URLはこちら](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E8%84%B3-%EF%BD%9E%E5%84%AA%E3%82%8C%E3%81%9F%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%AA%8D%E7%9F%A5%E7%A7%91%E5%AD%A6%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81-Felienne-Hermans/dp/4798068535/ref=pd_bxgy_thbs_d_sccl_2/356-5281824-7315926?pd_rd_w=M2QLb&content-id=amzn1.sym.dee070b1-16ee-44ca-b1c2-031bd9c55b61&pf_rd_p=dee070b1-16ee-44ca-b1c2-031bd9c55b61&pf_rd_r=4C7KPWMT2PC1XJREEDGY&pd_rd_wg=MbXe7&pd_rd_r=31a20387-fb8e-4bdc-891e-eefe8a718426&pd_rd_i=4798068535&psc=1)
 
+- 読破メモ
+
+[読破メモはこちら](./01-programmar-brain.md)
+
 ## Good Code, Bad Code ～持続可能な開発のためのソフトウェアエンジニア的思考
 
 - 良いコード、悪いコードを学ぶ書籍。
